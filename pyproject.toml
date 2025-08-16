@@ -1,0 +1,14 @@
+[project]
+name = "flet-calc"
+version = "0.1.0"
+description = "Oddiy Flet kalkulyator"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.flet]
+product = "Flet Calc"
+org = "com.example"
+bundle_id = "com.example.fletcalc"
+company = "Example Co"
+# Android adaptive icon fon rangi (ixtiyoriy)
+android_adaptive_icon_background = "#ffffff"
